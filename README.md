@@ -208,3 +208,6 @@ HTC Home is available as a full free version with all features and updates inclu
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-13 19:00:59 UTC
